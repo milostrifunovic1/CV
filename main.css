@@ -123,8 +123,8 @@ h4 {
         width: 70%;
     }
     body {
-        background: url(img.png);
-        
+        background: url(img.png) fixed;
+        background-position: -10px -10px;
     }
     h1{
         font-size: 18px;
